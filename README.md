@@ -5,7 +5,7 @@
 ### Ingeniera en Software · Frontend Developer
 
 <p>
-  Desarrollo interfaces modernas, intuitivas y responsivas,
+  Desarrollo interfaces modernas, intuitivas y responsivas,<br>
   enfocadas en simplificar procesos y mejorar la experiencia del usuario.
 </p>
 
@@ -13,11 +13,9 @@
   <strong>Angular · TypeScript · Firebase</strong>
 </p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sutmi&label=Visitas%20al%20perfil&style=flat-square" />
-
 </div>
+
+<br>
 
 ---
 
@@ -33,12 +31,14 @@ Actualmente trabajo principalmente con **Angular, TypeScript y Firebase**, parti
 
 <div align="center">
 
-💻 Desarrollo Frontend &nbsp;&nbsp;•&nbsp;&nbsp;
-🎨 UI/UX &nbsp;&nbsp;•&nbsp;&nbsp;
-🧩 Sistemas administrativos &nbsp;&nbsp;•&nbsp;&nbsp;
-📱 Diseño responsive
+`💻 Desarrollo Frontend` &nbsp;&nbsp;
+`🎨 UI/UX` &nbsp;&nbsp;
+`🧩 Sistemas administrativos` &nbsp;&nbsp;
+`📱 Diseño responsive`
 
 </div>
+
+<br>
 
 ---
 
@@ -52,6 +52,8 @@ Actualmente trabajo principalmente con **Angular, TypeScript y Firebase**, parti
 
 </div>
 
+<br>
+
 ### Backend, servicios y datos
 
 <div align="center">
@@ -59,6 +61,8 @@ Actualmente trabajo principalmente con **Angular, TypeScript y Firebase**, parti
 <img src="https://skillicons.dev/icons?i=firebase,nodejs" />
 
 </div>
+
+<br>
 
 ### Herramientas
 
@@ -68,25 +72,29 @@ Actualmente trabajo principalmente con **Angular, TypeScript y Firebase**, parti
 
 </div>
 
+<br>
+
 ---
 
-## 💼 Experiencia en desarrollo
+## 💼 Experiencia
 
-He participado en el desarrollo y mejora de aplicaciones compuestas por diferentes módulos y procesos administrativos.
-
-Entre las áreas en las que he trabajado se encuentran:
+He participado en el desarrollo y mejora de aplicaciones empresariales compuestas por diferentes módulos y procesos administrativos.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏨 Gestión hotelera
 
+Desarrollo y mejora de interfaces para procesos relacionados con:
+
 - Reservaciones
 - Calendarios de ocupación
 - Disponibilidad de habitaciones
-- Check-in y check-out
 - Gestión de huéspedes
+- Check-in y check-out
+- Pagos
 - Interfaces administrativas
 
 </td>
@@ -94,6 +102,8 @@ Entre las áreas en las que he trabajado se encuentran:
 <td width="50%" valign="top">
 
 ### 🧾 Facturación
+
+Participación en interfaces y flujos relacionados con:
 
 - Gestión de facturas
 - Clientes fiscales
@@ -103,19 +113,23 @@ Entre las áreas en las que he trabajado se encuentran:
 - Flujos administrativos
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏢 Gestión administrativa
+### 🏢 Sistemas administrativos
+
+Trabajo en aplicaciones conformadas por diferentes módulos:
 
 - Hotel
 - Cabañas
 - Locales
 - Recursos Humanos
+- Facturación
 - Pagos
-- Reportes
 
 </td>
 
@@ -123,30 +137,37 @@ Entre las áreas en las que he trabajado se encuentran:
 
 ### 🎨 Frontend & UI
 
+Enfoque en el desarrollo y mejora de:
+
 - Rediseño de interfaces
 - Componentes reutilizables
 - Diseño responsive
 - Dashboards
 - Tablas y filtros
-- Mejora de experiencia de usuario
+- Experiencia de usuario
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 ---
 
 ## 🚀 Proyectos destacados
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏨 Plataforma de Gestión Hotelera
 
-Sistema administrativo orientado a la gestión operativa de un hotel.
+Sistema administrativo orientado a la gestión y operación de un hotel.
 
-**Participación:**
+**Mi participación:**
 
 - Interfaces de reservaciones
 - Calendarios de ocupación
@@ -155,6 +176,8 @@ Sistema administrativo orientado a la gestión operativa de un hotel.
 - Pagos
 - Facturación
 - Diseño responsive
+
+<br>
 
 **Tecnologías**
 
@@ -166,9 +189,9 @@ Sistema administrativo orientado a la gestión operativa de un hotel.
 
 ### 🧾 Sistema de Facturación
 
-Plataforma para gestionar procesos administrativos y solicitudes de facturación.
+Plataforma para administrar procesos y solicitudes relacionadas con facturación.
 
-**Participación:**
+**Mi participación:**
 
 - Gestión de clientes
 - Facturas
@@ -177,21 +200,25 @@ Plataforma para gestionar procesos administrativos y solicitudes de facturación
 - Flujos de pago
 - Interfaces administrativas
 
+<br>
+
 **Tecnologías**
 
 `Angular` `TypeScript` `Firebase` `REST API`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📅 Gestión de Reservaciones
 
-Interfaces para consultar disponibilidad, administrar reservaciones y visualizar ocupación.
+Interfaces enfocadas en consultar disponibilidad, administrar reservaciones y visualizar la ocupación.
 
-**Funciones:**
+**Funcionalidades:**
 
 - Calendario
 - Disponibilidad
@@ -199,9 +226,11 @@ Interfaces para consultar disponibilidad, administrar reservaciones y visualizar
 - Gestión de ocupación
 - Interfaces responsive
 
+<br>
+
 **Tecnologías**
 
-`Angular` `Firebase` `TypeScript`
+`Angular` `TypeScript` `Firebase`
 
 </td>
 
@@ -211,53 +240,56 @@ Interfaces para consultar disponibilidad, administrar reservaciones y visualizar
 
 Aplicación enfocada en la organización de notas y productividad personal.
 
-**Funciones:**
+**Funcionalidades:**
 
 - Gestión de notas
 - Organización de información
-- Interfaz orientada a productividad
+- Interfaz enfocada en productividad
+
+<br>
 
 **Tecnologías**
 
 `Java` `Android`
 
 </td>
+
 </tr>
+
 </table>
 
----
-
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Sutmi&show_icons=true&hide_border=true&theme=transparent&locale=es" />
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sutmi&layout=compact&hide_border=true&theme=transparent&locale=es" />
-
-</div>
-
 <br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Sutmi&theme=transparent&hide_border=true"
-/>
-
-</div>
 
 ---
 
 ## 🌱 Actualmente
 
-Actualmente continúo fortaleciendo mis conocimientos en desarrollo Frontend, arquitectura de aplicaciones web y diseño de interfaces, buscando crear sistemas cada vez más organizados, mantenibles y fáciles de utilizar.
+Actualmente continúo desarrollando soluciones Frontend y fortaleciendo mis conocimientos en arquitectura de aplicaciones web, diseño de interfaces y construcción de sistemas organizados, mantenibles y escalables.
 
-Me interesa seguir desarrollándome profesionalmente en áreas relacionadas con:
+### Áreas de interés
 
-**Frontend Development · Angular · UI/UX · Software Engineering**
+<div align="center">
+
+`Frontend Development` ·
+`Angular` ·
+`UI/UX` ·
+`Software Engineering`
+
+</div>
+
+<br>
+
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sutmi&theme=transparent&hide_border=true" />
+
+</div>
+
+<br>
 
 ---
 
@@ -272,15 +304,15 @@ Estoy abierta a nuevas oportunidades profesionales y proyectos relacionados con 
 <br>
 
 <a href="TU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-profesional?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="TU_PORTAFOLIO">
-  <img src="https://img.shields.io/badge/Portafolio-Ver%20portafolio?style=for-the-badge&logo=googlechrome" />
+  <img src="https://img.shields.io/badge/Portafolio-Ver%20portafolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="mailto:TU_CORREO">
-  <img src="https://img.shields.io/badge/Email-Contacto?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
