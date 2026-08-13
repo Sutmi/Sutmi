@@ -1,16 +1,21 @@
 <div align="center">
 
-# 👋 Hola, soy Sutmi Ramirez
+<img 
+  src="./banner-sutmi.png" 
+  width="100%" 
+  alt="Sutmi Ramirez - Software Engineer y Frontend Developer"
+/>
 
-### Ingeniera en Software · Frontend Developer
+<br>
+<br>
+
+### 👋 Hola, soy Sutmi Ramirez
+
+**Ingeniera en Software · Frontend Developer**
 
 <p>
   Desarrollo interfaces modernas, intuitivas y responsivas,<br>
   enfocadas en simplificar procesos y mejorar la experiencia del usuario.
-</p>
-
-<p>
-  <strong>Angular · TypeScript · Firebase</strong>
 </p>
 
 </div>
@@ -44,31 +49,18 @@ Actualmente trabajo principalmente con **Angular, TypeScript y Firebase**, parti
 
 ## 🛠️ Tecnologías
 
-### Frontend
-
 <div align="center">
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
 
-</div>
-
+<br>
 <br>
 
-### Backend, servicios y datos
+### Servicios & Herramientas
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase,nodejs" />
-
-</div>
-
-<br>
-
-### Herramientas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,git,github,vscode,figma" />
 
 </div>
 
@@ -76,11 +68,12 @@ Actualmente trabajo principalmente con **Angular, TypeScript y Firebase**, parti
 
 ---
 
-## 💼 Experiencia
+## 💼 Experiencia profesional
 
 He participado en el desarrollo y mejora de aplicaciones empresariales compuestas por diferentes módulos y procesos administrativos.
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -149,6 +142,7 @@ Enfoque en el desarrollo y mejora de:
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -281,25 +275,13 @@ Actualmente continúo desarrollando soluciones Frontend y fortaleciendo mis cono
 
 ---
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sutmi&theme=transparent&hide_border=true" />
-
-</div>
-
-<br>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
 
 ### ¿Trabajamos juntos?
 
-Estoy abierta a nuevas oportunidades profesionales y proyectos relacionados con desarrollo de software y Frontend.
+Estoy abierta a oportunidades profesionales y proyectos relacionados con **desarrollo Frontend, diseño de interfaces y desarrollo de software**.
 
 <br>
 
